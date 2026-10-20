@@ -9,7 +9,7 @@ em um modelo relacional organizado, usando 1FN, 2FN e 3FN.
 ## Autores
 
 - Samuel Vitor — [GitHub](https://github.com/SamuelV2216)
-- Ericles Gabriel — [GitHub](https://github.com/ericlesgabriel200408)
+- Ericles Gabriel — [GitHub](https://github.com/ericlesgabriel200408-cmd)
 - Vinicius Ian — [GitHub](https://github.com/Vinicius-ian007)
 - Johann do Santos  — [GitHub](https://github.com/johanndossantos15-glitch)
 - Samuel Silva — [GitHub](https://github.com/samuel0072562)
