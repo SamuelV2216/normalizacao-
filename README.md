@@ -10,7 +10,8 @@ em um modelo relacional organizado, usando 1FN, 2FN e 3FN.
 
 - Samuel Vitor — [GitHub](https://github.com/SamuelV2216)
 - Ericles Gabriel — [GitHub](https://github.com/ericlesgabriel200408)
-- Integrante 3 — [GitHub](link)
+- Vinicius Ian — [GitHub](https://github.com/Vinicius-ian007)
+- Johann do Santos  — [GitHub](https://github.com/johanndossantos15-glitch)
 
 ## Tema
 
