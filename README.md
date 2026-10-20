@@ -1,3 +1,4 @@
+
 # Normalização de Banco de Dados: 1FN, 2FN e 3FN
 
 Artigo técnico sobre como transformar uma planilha de pedidos com dados repetidos
