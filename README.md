@@ -4,7 +4,7 @@
 Artigo técnico sobre como transformar uma planilha de pedidos com dados repetidos
 em um modelo relacional organizado, usando 1FN, 2FN e 3FN.
 
-**Página publicada:** [colocar link após ativar o GitHub Pages]
+**Página publicada:** https://samuelv2216.github.io/normalizacao-/
 
 ## Autores
 
